@@ -84,6 +84,31 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "ckzy": {
+        "api": "https://ckzy.me/api.php/provide/vod/",
+        "name": "CK资源",
+        "detail": "https://www.ckzy1.com"
+    },
+    "jkun": {
+        "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+        "name": "jkun资源",
+        "detail": "https://jkunzyapi.com"
+    },
+    "souav": {
+        "api": "https://api.souavzy.vip/api.php/provide/vod/",
+        "name": "souav资源",
+        "detail": "https://api.souavzy.vip"
+    },   
+    "huangcang": {
+        "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/",
+        "name": "黄色仓库",
+        "detail": "https://hsckzy.vip"
+    },
+    "yutu": {
+        "api": "https://apiyutu.com/api.php/providedao/vod/",
+        "name": "玉兔资源",
+        "detail": "https://yutuzy10.com"
     }
   }
 }
